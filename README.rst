@@ -25,6 +25,8 @@
 Accessing Online Astronomical Data
 ==================================
 
+I AM A BOT BEEP BOOP.
+
 Astroquery is an `astropy <https://www.astropy.org>`_ affiliated package that
 contains a collection of tools to access online Astronomical data. Each web
 service has its own sub-package. For example, to interface with the `SIMBAD
